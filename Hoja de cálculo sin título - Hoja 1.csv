@@ -1,0 +1,35 @@
+ID_Persona,sintomas
+1,mucosidad
+1,taponamiento nasal
+1,Molestia garganta
+1,Tos seca
+1,expectoracion
+2,fiebre
+2,dolor articulaciones
+2,dolor muscular
+2,dolor cabeza
+2,taponamiento nasal
+2,mucosidad
+2,expectoracion
+3,fiebre
+3,dolor articulaciones
+3,Tos seca
+3,mucosidad
+3,Molestia garganta
+4,Tos seca
+4,Molestia garganta
+4,mucosidad
+4,expectoracion
+4,dolor cabeza
+5,Molestia garganta
+5,mucosidad
+5,Tos seca
+5,expectoracion
+6,dolor cabeza
+6,fiebre
+6,dolor articulaciones
+6,dolor muscular
+7,dolor cabeza
+7,taponamiento nasal
+7,mucosidad
+7,expectoracion
