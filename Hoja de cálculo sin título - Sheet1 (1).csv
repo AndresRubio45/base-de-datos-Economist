@@ -7,10 +7,10 @@ Argentina,45,797,3,Americas
 Armenia,86,716,2.6,East EU Cemt Asia
 Australia,2,929,8.8,Asia Pacific
 Austria,19,885,7.8,EU W. Europe
-Azerbaijan,91,0.7,2.4,East EU Cemt Asia
+Azerbaijan,91,700,2.4,East EU Cemt Asia
 Bahamas,53,771,7.3,Americas
 Bahrain,42,806,5.1,MENA
-Bangladesh,146,0.5,2.7,Asia Pacific
+Bangladesh,146,500,2.7,Asia Pacific
 Barbados,47,793,7.8,Americas
 Belarus,65,756,2.4,East EU Cemt Asia
 Belgium,18,886,7.5,EU W. Europe
@@ -32,21 +32,21 @@ Central African Republic,179,343,2.2,SSA
 Chad,183,328,2,SSA
 Chile,44,805,7.2,Americas
 China,101,687,3.6,Asia Pacific
-Colombia,87,0.71,3.4,Americas
+Colombia,87,710,3.4,Americas
 Comoros,163,433,2.4,SSA
 Congo,187,286,2,SSA
 Congo  Republic,137,533,2.2,SSA
 Costa Rica,69,744,4.8,Americas
-CÃ´te d'Ivoire,170,0.4,2.2,SSA
+CÃ´te d'Ivoire,170,400,2.2,SSA
 Croatia,46,796,4,East EU Cemt Asia
 Cuba,51,776,4.2,Americas
-Cyprus,31,0.84,6.3,EU W. Europe
+Cyprus,31,840,6.3,EU W. Europe
 Czech Republic,27,865,4.4,EU W. Europe
 Denmark,16,895,9.4,EU W. Europe
-Djibouti,165,0.43,3,SSA
+Djibouti,165,430,3,SSA
 Dominica,81,724,5.2,Americas
 Dominican Republic,98,689,2.6,Americas
-Ecuador,83,0.72,2.7,Americas
+Ecuador,83,720,2.7,Americas
 Egypt,113,644,2.9,MENA
 El Salvador,105,674,3.4,Americas
 Equatorial Guinea,136,537,1.9,SSA
@@ -56,7 +56,7 @@ Ethiopia,174,363,2.7,SSA
 Finland,22,882,9.4,EU W. Europe
 France,20,884,7,EU W. Europe
 Gabon,106,674,3,SSA
-Gambia,168,0.42,3.5,SSA
+Gambia,168,420,3.5,SSA
 Georgia,75,733,4.1,East EU Cemt Asia
 Germany,9,905,8,EU W. Europe
 Ghana,135,541,3.9,SSA
@@ -84,25 +84,25 @@ Kazakhstan,68,745,2.7,East EU Cemt Asia
 Kenya,143,509,2.2,SSA
 Kiribati,122,624,3.1,Asia Pacific
 Korea (South),15,897,5.4,Asia Pacific
-Kuwait,63,0.76,4.6,MENA
+Kuwait,63,760,4.6,MENA
 Kyrgyzstan,126,615,2.1,East EU Cemt Asia
 Laos,138,524,2.2,Asia Pacific
 Latvia,43,805,4.2,EU W. Europe
 Lebanon,71,739,2.5,MENA
 Lesotho,160,0.45,3.5,SSA
 Liberia,182,329,3.2,SSA
-Libya,64,0.76,2,MENA
-Lithuania,40,0.81,4.8,EU W. Europe
+Libya,64,760,2,MENA
+Lithuania,40,810,4.8,EU W. Europe
 Luxembourg,25,867,8.5,EU W. Europe
-Madagascar,151,0.48,3,SSA
-Malawi,171,0.4,3,SSA
+Madagascar,151,480,3,SSA
+Malawi,171,400,3,SSA
 Malaysia,61,761,4.3,Asia Pacific
 Maldives,109,661,2.5,Asia Pacific
 Mali,175,359,2.8,SSA
 Malta,36,832,5.6,EU W. Europe
 Mauritania,159,453,2.4,SSA
 Mauritius,77,728,5.1,SSA
-Mexico,57,0.77,3,Americas
+Mexico,57,770,3,Americas
 Moldova,111,649,2.9,East EU Cemt Asia
 Mongolia,110,653,2.7,Asia Pacific
 Montenegro,54,771,4,East EU Cemt Asia
@@ -111,7 +111,7 @@ Mozambique,184,322,2.7,SSA
 Myanmar,149,483,1.5,Asia Pacific
 Namibia,120,625,4.4,SSA
 Nepal,157,458,2.2,Asia Pacific
-Netherlands,3,0.91,8.9,EU W. Europe
+Netherlands,3,910,8.9,EU W. Europe
 New Zealand,5,908,9.5,Asia Pacific
 Nicaragua,129,589,2.5,Americas
 Niger,186,295,2.5,SSA
@@ -133,7 +133,7 @@ Rwanda,166,429,5,SSA
 Saint Lucia,82,723,7,Americas
 Saint Vincent and the Grenadines,85,717,5.8,Americas
 Samoa,99,688,3.9,Asia Pacific
-Saudi Arabia,56,0.77,4.4,MENA
+Saudi Arabia,56,770,4.4,MENA
 Senegal,155,459,2.9,SSA
 Serbia,59,766,3.3,East EU Cemt Asia
 Seychelles,52,773,4.8,SSA
@@ -141,12 +141,12 @@ Sierra Leone,180,336,2.5,SSA
 Singapore,26,866,9.2,Asia Pacific
 Slovakia,35,834,4,EU W. Europe
 Slovenia,21,884,5.9,EU W. Europe
-Solomon Islands,142,0.51,2.7,Asia Pacific
+Solomon Islands,142,510,2.7,Asia Pacific
 South Africa,123,619,4.1,SSA
 Spain,23,878,6.2,EU W. Europe
 Sri Lanka,97,691,3.3,Asia Pacific
 Sudan,169,408,1.6,SSA
-Suriname,104,0.68,3,Americas
+Suriname,104,680,3,Americas
 Swaziland,140,522,3.1,SSA
 Sweden,10,904,9.3,EU W. Europe
 Switzerland,11,903,8.8,EU W. Europe
@@ -157,18 +157,18 @@ Thailand,103,682,3.4,Asia Pacific
 Timor-Leste,147,495,2.4,Asia Pacific
 Togo,162,435,2.4,SSA
 Tonga,90,704,3.1,Asia Pacific
-Trinidad and Tobago,62,0.76,3.2,Americas
+Trinidad and Tobago,62,760,3.2,Americas
 Tunisia,94,698,3.8,MENA
 Turkey,92,699,4.2,East EU Cemt Asia
 Turkmenistan,102,686,1.6,East EU Cemt Asia
 Uganda,161,446,2.4,SSA
 Ukraine,76,729,2.3,East EU Cemt Asia
 United Arab Emirates,30,846,6.8,MENA
-United States,4,0.91,7.1,Americas
+United States,4,910,7.1,Americas
 Uruguay,48,783,7,Americas
 Uzbekistan,115,641,1.6,East EU Cemt Asia
 Vanuatu,125,617,3.5,Asia Pacific
 Venezuela,73,735,1.9,Americas
 Yemen,154,462,2.1,MENA
-Zambia,164,0.43,3.2,SSA
+Zambia,164,430,3.2,SSA
 Zimbabwe,173,376,2.2,SSA
